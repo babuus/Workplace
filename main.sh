@@ -1,3 +1,4 @@
+cd /content/;
 echo "installing tensorflow";
 pip install tensorflow;
 echo "installed tensorflow";
